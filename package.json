@@ -39,10 +39,6 @@
     "node.js",
     "Express"
   ],
-  "author": "Nicolas Kaminski",
+  
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/N-Kaminski/universidad/issues"
-  },
-  "homepage": "https://github.com/N-Kaminski/universidad#readme"
 }

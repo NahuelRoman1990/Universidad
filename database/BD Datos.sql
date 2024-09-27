@@ -3,7 +3,6 @@ USE universidad;
 -- Insertar estudiantes
 INSERT INTO estudiantes (dni, nombre, apellido, email) VALUES
 ('33123456', 'Nahuel', 'Segovia', 'nahuel.segovia@gmail.com'),
-('33234567', 'Kaminski', 'Nicolas', 'kaminski.nicolas@outlook.com'),
 ('34345678', 'Aguirre', 'Macarena', 'aguirre.macarena@gmail.com'),
 ('34456789', 'Méndez', 'Beatriz', 'mendez.beatriz@outlook.com'),
 ('35567890', 'Peralta', 'Agustin', 'peralta.agustin@gmail.com'),
